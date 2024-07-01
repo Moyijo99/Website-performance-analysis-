@@ -13,5 +13,5 @@ The dataset we are working on contains the following columns:
 - Engagement rate: The proportion of sessions that were engaged
 - Event count: Total number of events during the period
 
-I included the csv file incase you want to recreate the analysis and perform your own additional analysis on it. For a comprehensive explanation of each line of code please visit the [medium https://medium.com/@moyeedjo/website-performance-analysis-using-python-e61b3ddc5696] article for this project
+I included the csv file incase you want to recreate the analysis and perform your own additional analysis on it. For a comprehensive explanation of each line of code please visit the medium article for this project: https://medium.com/@moyeedjo/website-performance-analysis-using-python-e61b3ddc5696
 Thank You!
